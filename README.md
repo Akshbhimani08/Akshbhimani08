@@ -172,9 +172,9 @@ Movie metadata  →  Sentence Embeddings  →  Cosine Similarity  →  Top-N Res
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Akshbhimani08&theme=tokyonight&hide_border=true)
 
-![Aksh's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Akshbhimani08&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Akshbhimani08&theme=tokyonight&no-frame=true&row=1&column=6)
 
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Akshbhimani08&layout=compact&theme=tokyonight&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Akshbhimani08&theme=tokyo-night&hide_border=true)
 
 </div>
 
