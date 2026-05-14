@@ -2,7 +2,7 @@
 
 # Hi, I'm Aksh Bhimani 👋
 
-### AI/ML Engineer · Backend Developer · Builder of Real-World AI Systems
+### AI/ML Engineer · GenAI Developer · Builder of Real-World AI Systems
 
 *I build end-to-end AI applications — from training deep learning models to deploying them on the cloud.*
 
