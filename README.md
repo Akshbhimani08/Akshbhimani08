@@ -4,7 +4,8 @@
 
 ### AI/ML Engineer · GenAI Developer · Builder of Real-World AI Systems
 
-*I build end-to-end AI applications — from training deep learning models to deploying them on the cloud.*
+*If i have to describe the AI in 2 words then that would be GRADIENTS(at training time) & VECTORS(at Inference time).
+I build end-to-end AI applications — from training deep learning models to deploying them on the cloud.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshbhimani)
 [![GitHub](https://img.shields.io/badge/GitHub-Akshbhimani08-181717?style=flat&logo=github&logoColor=white)](https://github.com/Akshbhimani08)
