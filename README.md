@@ -124,7 +124,7 @@ Browser Camera  →  WebSocket  →  MediaPipe (21 landmarks)
 
 ---
 
-###  [YouTube Chatbot — Chrome Extension with RAG Backend](https://github.com/Akshbhimani08/youtube-chatbot-chromeplugin)
+###  [YouTube Chatbot — Chrome Extension with RAG Backend](https://github.com/Akshbhimani08/youtube_chatbot_chromeplugin)
 
 > Chat with any YouTube video directly from a Chrome extension popup. Extracts the transcript via SerpAPI, builds a FAISS vector index on-the-fly, and answers questions using a LangChain RAG pipeline.
 
