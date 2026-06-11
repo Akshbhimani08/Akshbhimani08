@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Aksh Bhimani 👋
+# Hi, I'm Aksh Bhimani 
 
 ### AI/ML Engineer · GenAI Developer · Builder of Real-World AI Systems
 
@@ -20,10 +20,10 @@ I'm an AI/ML engineer focused on building intelligent, production-ready systems 
 
 I care about shipping things that actually work: clean APIs, cloud-deployed backends, and interfaces real users can interact with.
 
-- 🔭 Currently building multi-agent AI systems with **LangGraph** and **MCP**
-- 🧠 Deep interest in **LLMs**, **fine-tuning**, and **RAG pipelines**
-- ☁️ Deploying on **AWS EC2**, **Render**, and **Streamlit Cloud**
-- 🛠️ Every project here is fully functional and shipped — not just a notebook
+-  Currently building multi-agent AI systems with **LangGraph** and **MCP**
+-  Deep interest in **LLMs**, **fine-tuning**, and **RAG pipelines**
+-  Deploying on **AWS EC2**, **Render**, and **Streamlit Cloud**
+-  Every project here is fully functional and shipped — not just a notebook
 
 ---
 
@@ -70,7 +70,7 @@ I care about shipping things that actually work: clean APIs, cloud-deployed back
 
 ---
 
-### 🤖 [OmniAgent — Multi-Agent RAG & MCP Chatbot](https://github.com/Akshbhimani08/OmniAgent_chatbot)
+###  [OmniAgent — Multi-Agent RAG & MCP Chatbot](https://github.com/Akshbhimani08/OmniAgent_chatbot)
 
 > Production-grade multi-tool AI chatbot with persistent memory, RAG over PDFs, live web search, real-time stock data, and remote MCP tool integration.
 
@@ -85,7 +85,7 @@ Persistence: AsyncSqliteSaver (SQLite)  |  Embeddings: all-MiniLM-L6-v2
 
 ---
 
-### 📈 [SignalMatrix AI — 10-Day NIFTY 50 Stock Forecaster](https://github.com/Akshbhimani08/SignalMatrix-AI)
+###  [SignalMatrix AI — 10-Day NIFTY 50 Stock Forecaster](https://github.com/Akshbhimani08/SignalMatrix-AI)
 
 > LSTM Seq2Seq model that forecasts a full 10-trading-day price sequence for any NIFTY 50 stock — with validation metrics, bias correction, and a Dockerised Streamlit interface.
 
@@ -105,7 +105,7 @@ NSE CSV  →  13 Engineered Features (MA, EMA, RSI, MACD, Bollinger Bands)
 
 ---
 
-### 🤟 [Sign-Bridge AI — Real-Time ASL Translation System](https://github.com/Akshbhimani08/sign-bridge-ai)
+###  [Sign-Bridge AI — Real-Time ASL Translation System](https://github.com/Akshbhimani08/sign-bridge-ai)
 
 > End-to-end pipeline that translates American Sign Language hand gestures into text, speech, and 17+ languages — live in the browser, deployed on AWS EC2.
 
@@ -124,7 +124,7 @@ Browser Camera  →  WebSocket  →  MediaPipe (21 landmarks)
 
 ---
 
-### 🎬 [YouTube Chatbot — Chrome Extension with RAG Backend](https://github.com/Akshbhimani08/youtube-chatbot-chromeplugin)
+###  [YouTube Chatbot — Chrome Extension with RAG Backend](https://github.com/Akshbhimani08/youtube-chatbot-chromeplugin)
 
 > Chat with any YouTube video directly from a Chrome extension popup. Extracts the transcript via SerpAPI, builds a FAISS vector index on-the-fly, and answers questions using a LangChain RAG pipeline.
 
@@ -138,7 +138,7 @@ Chrome Extension (Manifest V3)  →  FastAPI (Render)
 
 ---
 
-### 📡 [arXiv MCP Server](https://github.com/Akshbhimani08/arxiv_mcp_server)
+###  [arXiv MCP Server](https://github.com/Akshbhimani08/arxiv_mcp_server)
 
 > A remote MCP server that exposes arXiv's research corpus as structured tools — enabling Claude, Cursor, ChatGPT, and any MCP-compatible client to search scientific papers programmatically.
 
@@ -154,7 +154,7 @@ Compatible with: Claude Desktop · ChatGPT Desktop · Cursor · VS Code + Copilo
 
 ---
 
-### 🎥 [Movie Recommendation System](https://github.com/Akshbhimani08/Movie_Recommendation_System)
+###  [Movie Recommendation System](https://github.com/Akshbhimani08/Movie_Recommendation_System)
 
 > Content-based recommender using sentence embeddings and cosine similarity, with a Streamlit UI and live TMDB poster integration.
 
