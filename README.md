@@ -105,7 +105,7 @@ NSE CSV  →  13 Engineered Features (MA, EMA, RSI, MACD, Bollinger Bands)
 
 ---
 
-###  [Sign-Bridge AI — Real-Time ASL Translation System](https://github.com/Akshbhimani08/sign-bridge-ai)
+###  [Sign-Bridge AI — Real-Time ASL Translation System](https://github.com/Akshbhimani08/SignBridge-AI)
 
 > End-to-end pipeline that translates American Sign Language hand gestures into text, speech, and 17+ languages — live in the browser, deployed on AWS EC2.
 
